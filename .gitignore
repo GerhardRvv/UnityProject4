@@ -1,0 +1,37 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Unity Collab
+*.collab*
+
+# Crash reports
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.swp
+*.DS_Store
+
+# Cache
+/[Bb]uilds/
+/Assets/AddressableAssetsData/*/*.bin
+/Assets/StreamingAssets/
+
+# Visual Studio / JetBrains Rider
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+.idea/
+
+# Unity packages (optional)
+Packages/
